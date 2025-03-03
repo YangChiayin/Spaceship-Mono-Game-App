@@ -1,4 +1,6 @@
 # Spaceship Mono-Game App
+![Screenshot 2025-03-02 234240](https://github.com/user-attachments/assets/82127001-02ee-454e-93a2-6a2365bf911a)
+![Screenshot 2025-03-02 234306](https://github.com/user-attachments/assets/23d63d15-647d-4bdf-a281-8e7bcec9876c)
 
 ## Overview
 This is a game where you control a spaceship and navigate through multiple asteroids. The goal is to avoid colliding with the asteroids, and the game ends either when the timer runs out or when you hit an asteroid. You score points for each asteroid you avoid, but lose points for collisions.
